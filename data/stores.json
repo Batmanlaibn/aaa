@@ -1,0 +1,114 @@
+{
+  "stores": [
+    {
+      "id": "1",
+      "name": "Номин Супермаркет",
+      "category": "supermarket",
+      "address": "Сүхбаатар дүүрэг, 1-р хороо",
+      "lat": 47.9184,
+      "lng": 106.9177,
+      "rating": 4.5,
+      "openTime": "08:00",
+      "closeTime": "22:00",
+      "phone": "+976 7000 1234",
+      "image": "/stores/nomin.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Starbucks Шангри-Ла",
+      "category": "coffee",
+      "address": "Сүхбаатар дүүрэг, Olympic Street",
+      "lat": 47.9145,
+      "lng": 106.9147,
+      "rating": 4.7,
+      "openTime": "07:00",
+      "closeTime": "21:00",
+      "phone": "+976 7700 5678",
+      "image": "/stores/starbucks.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Том & Том Кофе",
+      "category": "coffee",
+      "address": "Хан-Уул дүүрэг, Zaisan",
+      "lat": 47.8823,
+      "lng": 106.9087,
+      "rating": 4.3,
+      "openTime": "08:00",
+      "closeTime": "20:00",
+      "phone": "+976 7711 9012",
+      "image": "/stores/tomntom.jpg"
+    },
+    {
+      "id": "4",
+      "name": "KFC Central Tower",
+      "category": "food",
+      "address": "Сүхбаатар дүүрэг, Peace Avenue",
+      "lat": 47.9178,
+      "lng": 106.9185,
+      "rating": 4.2,
+      "openTime": "10:00",
+      "closeTime": "22:00",
+      "phone": "+976 7000 5555",
+      "image": "/stores/kfc.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Их Дэлгүүр",
+      "category": "supermarket",
+      "address": "Баянгол дүүрэг, 3-р хороо",
+      "lat": 47.9067,
+      "lng": 106.8956,
+      "rating": 4.0,
+      "openTime": "09:00",
+      "closeTime": "21:00",
+      "phone": "+976 7700 3456",
+      "image": "/stores/ikh-delguur.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Pizza Hut",
+      "category": "food",
+      "address": "Сүхбаатар дүүрэг, Seoul Street",
+      "lat": 47.9201,
+      "lng": 106.9234,
+      "rating": 4.4,
+      "openTime": "11:00",
+      "closeTime": "23:00",
+      "phone": "+976 7000 7890",
+      "image": "/stores/pizzahut.jpg"
+    },
+    {
+      "id": "7",
+      "name": "E-Mart",
+      "category": "supermarket",
+      "address": "Хан-Уул дүүрэг, 15-р хороо",
+      "lat": 47.8912,
+      "lng": 106.8789,
+      "rating": 4.6,
+      "openTime": "08:00",
+      "closeTime": "22:00",
+      "phone": "+976 7700 1111",
+      "image": "/stores/emart.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Зочид буудлын Кофе",
+      "category": "coffee",
+      "address": "Баянзүрх дүүрэг, 1-р хороо",
+      "lat": 47.9234,
+      "lng": 106.9456,
+      "rating": 4.1,
+      "openTime": "07:00",
+      "closeTime": "19:00",
+      "phone": "+976 7711 2222",
+      "image": "/stores/hotel-coffee.jpg"
+    }
+  ],
+  "categories": [
+    { "id": "all", "name": "Бүгд", "icon": "Grid3x3" },
+    { "id": "supermarket", "name": "Дэлгүүр", "icon": "ShoppingCart" },
+    { "id": "coffee", "name": "Кофе шоп", "icon": "Coffee" },
+    { "id": "food", "name": "Хоол", "icon": "UtensilsCrossed" }
+  ]
+}

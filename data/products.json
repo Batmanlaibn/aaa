@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "storeId": "1",
+      "name": "Сүү 1л",
+      "price": 3500,
+      "category": "dairy",
+      "image": "/products/milk.jpg",
+      "description": "Шинэхэн сүү"
+    },
+    {
+      "id": "p2",
+      "storeId": "1",
+      "name": "Талх",
+      "price": 2000,
+      "category": "bakery",
+      "image": "/products/bread.jpg",
+      "description": "Шинэхэн талх"
+    },
+    {
+      "id": "p3",
+      "storeId": "2",
+      "name": "Американо",
+      "price": 8500,
+      "category": "coffee",
+      "image": "/products/americano.jpg",
+      "description": "Халуун американо кофе"
+    },
+    {
+      "id": "p4",
+      "storeId": "2",
+      "name": "Латте",
+      "price": 9500,
+      "category": "coffee",
+      "image": "/products/latte.jpg",
+      "description": "Сүүтэй латте кофе"
+    },
+    {
+      "id": "p5",
+      "storeId": "4",
+      "name": "Тахианы бургер",
+      "price": 12000,
+      "category": "food",
+      "image": "/products/burger.jpg",
+      "description": "KFC тахианы бургер"
+    },
+    {
+      "id": "p6",
+      "storeId": "6",
+      "name": "Пепперони пицца",
+      "price": 25000,
+      "category": "food",
+      "image": "/products/pizza.jpg",
+      "description": "Том хэмжээтэй пицца"
+    },
+    {
+      "id": "p7",
+      "storeId": "3",
+      "name": "Капучино",
+      "price": 7500,
+      "category": "coffee",
+      "image": "/products/cappuccino.jpg",
+      "description": "Том & Том капучино"
+    },
+    {
+      "id": "p8",
+      "storeId": "5",
+      "name": "Өндөг 10ш",
+      "price": 6000,
+      "category": "dairy",
+      "image": "/products/eggs.jpg",
+      "description": "Шинэхэн өндөг"
+    }
+  ]
+}
